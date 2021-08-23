@@ -1,0 +1,12 @@
+G:\Codeing\matlab\OPT\Github\TestData\Clay\7-CU-OCR10-77kPa.txt,1,77,0.367,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\8-CU-OCR4-192.5kPa.txt,1,192.5,0.356,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\9-CU-OCR2-385kPa.txt,1,385,0.35,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\10-CU-OCR1.5-513.3kPa.txt,1,513.3,0.346,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\11-CU-OCR1-770kPa.txt,1,770,0.345,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\1-CD-OCR10-77kPa.txt,3,77,0.367,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\2-CD-OCR4-192.5kPa.txt,3,192.5,0.356,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\3-CD-OCR2-385kPa.txt,3,385,0.35,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\4-CD-OCR1.5-513.3kPa.txt,3,513.3,0.346,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\5-CD-OCR1.25-616kPa.txt,3,616,0.3455,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\6-CD-OCR1-770kPa.txt,3,770,0.345,770.0
+G:\Codeing\matlab\OPT\Github\TestData\Clay\12-ISO.txt,5,1.0,0.752,770.0

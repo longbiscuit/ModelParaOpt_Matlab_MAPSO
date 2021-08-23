@@ -1,5 +1,5 @@
 # ModelParaOpt_Matlab_MAPSO
-This is a program for calibrating constitutive model parameters from experimental data with optimization algorithm.
+This is a program for calibrating constitutive model parameters from test data with optimization algorithm.
 
 This is a program for calibrating constitutive model parameters from experimental data with optimization algorithm.  The optimization algorithms used are particle swarm optimization algorithm of multiple adaptive strategies(MAPSO).  The test data used were conventional triaxial test data.  CSUH and other constitutive models are used.  The code used is Matlab and Fortran. It contains detailed manual, which can be operated according to the manual.  At the same time, this is also the thesis's "Calibrating and validating a soil constitutive model through conventional triaxial tests: An in-depth study on CSUH" part of the work.  Contains program and test data used.  
 
